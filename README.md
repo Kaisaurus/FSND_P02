@@ -1,1 +1,1 @@
-# FSND_P02
+# Full Stack Nano Degree Project 02
